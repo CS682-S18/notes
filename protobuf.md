@@ -1,7 +1,7 @@
 Data Serialization and Protocol Buffers
 =======================================
 
-#### Reading: Kleppmann Chapter 4 
+#### Reading: [Kleppmann Chapter 4](http://0-proquest.safaribooksonline.com.ignacio.usfca.edu/book/software-engineering-and-development/9781491903063/4dot-encoding-and-evolution/ch_encoding_html)
 
 ### Overview
 
