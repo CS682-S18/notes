@@ -52,12 +52,12 @@ Recall that the microcloud nodes are not accessible directly from outside the CS
 
 You may add a maven dependency as follows to use the Java API from your Java code. Beware that it is a bit finicky. I had to force maven to update dependencies from the command line.
 
-```    
+```xml
 <dependencies>
-	<dependency>
-   		<groupId>org.apache.zookeeper</groupId>
-       <artifactId>zookeeper</artifactId>
-       <version>3.4.11</version>
-   </dependency>
+  <dependency>
+    <groupId>org.apache.zookeeper</groupId>
+    <artifactId>zookeeper</artifactId>
+    <version>3.4.11</version>
+  </dependency>
 </dependencies>
 ```
