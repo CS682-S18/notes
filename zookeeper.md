@@ -7,7 +7,7 @@ A fundamental problem in distributed systems is *discovering* other nodes or ser
 
 The [Domain Name System (DNS)](https://en.wikipedia.org/wiki/Domain_Name_System) is one way a host is able to find the location, or IP address, of another host. 
 
-In some cases, nodes may also be statically configured with a list of other nodes or services, however this approach has the limitation that if a host or service fails then then static list becomes inaccurate.
+In some cases, nodes may also be statically configured with a list of other nodes or services, however this approach has the limitation that if a host or service fails then the static list becomes inaccurate.
 
 ### ZooKeeper
 
@@ -32,7 +32,7 @@ The guarantees provided by ZooKeeper are as follows:
 
 ### ZooKeeper for Group Membership
 
-We will explore is using ZooKeeper as a way to discover other nodes participating in a particular application, for example a chat application. The basic idea is that the we will define a structure such that the top-level znode represents the application, each child of that znode represents a group member, that is a single instance of the application, and the data will contain all of the relevant details for communicating with the group member.
+We will explore using ZooKeeper as a way to discover other nodes participating in a particular application, for example a chat application. The basic idea is that the we will define a structure such that the top-level znode represents the application, each child of that znode represents a group member, that is a single instance of the application, and the data will contain all of the relevant details for communicating with the group member.
 
 ```
 /CS682_chat
