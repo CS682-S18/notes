@@ -13,7 +13,7 @@ To avoid port conflicts, please only execute your programs on the nodes and port
 | Hassan Chadad	| HassanChadad | mc01-mc03 | 2351 - 2399 |
 | Sheng Chen	| John-S-Chen | mc01-mc03 | 2400 - 2450 |
 | Xin Cheng	| auicheng | mc01-mc03 | 2451 - 2499 |
-| Milankumar | Chovatiya	milan15 | mc01-mc03 | 2500 - 2550 |
+| Milankumar Chovatiya |	milan15 | mc01-mc03 | 2500 - 2550 |
 | Cristina Chu	| cmchu3 | mc01-mc03 | 2551 - 2599 |
 | Marilyn Cruz	| marcrzzz | mc01-mc03 | 2600 - 2650 |
 | Matthew Domingo	| mcdomingo | mc04-mc06 | 3200 - 3250 |
