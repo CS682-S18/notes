@@ -33,7 +33,7 @@ To avoid port conflicts, please only execute your programs on the nodes and port
 | Gudbrand Schistad	| gudbrandsc | mc07-mc09 | 4400 - 4450 |
 | Omar Sharif| 	osharif12 | mc07-mc09 | 4451 - 4499 |
 | Jinyue Song	| John1001Song | mc07-mc09 | 4500 - 4550 |
-| Chien-Yu Sung	| brianisadog | mc07-mc09 | 4551 - 4599 |
+| Chien-Yu Sung	| BrianSungUSFCA | mc07-mc09 | 4551 - 4599 |
 | Prateek Tiwari	| prateekt29 | mc07-mc09 | 4600 - 4650 |
 | Katherine Tucto	| kntr | mc10-mc12 | 5200 - 5250 |
 | Nate Wilson	| natemwilson | mc10-mc12 | 5251 - 5299 |
