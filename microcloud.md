@@ -41,6 +41,6 @@ To avoid port conflicts, please only execute your programs on the nodes and port
 | yuxiao| 	yyang150 | mc10-mc12 | 5351 - 5399 |
 | kai yu| 	nvgruel123 | mc10-mc12 | 5400 - 5450 |
 | Ryan Yu| 	QiyanYu | mc10-mc12 | 5451 - 5499 |
-| Timothy|  yung 	Timothyyung | mc10-mc12 | 5500 - 5550 |
+| Timothy  yung 	|Timothyyung | mc10-mc12 | 5500 - 5550 |
 | Peilin Zhong| 	PeilinzhongZ | mc10-mc12 | 5551 - 5599 |
 | Yifan Zhou| 	yifanzhou106 | mc10-mc12 | 5600 - 5650 |
