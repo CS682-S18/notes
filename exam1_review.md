@@ -42,3 +42,7 @@ The list of topics may include but is not limited to the following:
 
 #### CAP Theorem
 - Consistency/Availability Tradeoff
+
+#### Physical Time Synchronization
+- Cristian's algorithm
+- NTP
