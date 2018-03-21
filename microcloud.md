@@ -29,8 +29,8 @@ To avoid port conflicts, please only execute your programs on the nodes and port
 | Diana Perez	| dmperez2 | mc07-mc09 | 4251 - 4299 | mc07:4251 | mc08:4299 | n/a |
 | Sreedeepraj Ratnasabhapathy	| Sreedeepraj | mc07-mc09 | 4300 - 4350 | mc07:4300 | mc08:4350 | n/a |
 | Kundry Rivero	| kyrivero | mc07-mc09 | 4351 - 4399 | mc07:4351 | mc08:4399 | n/a |
-| Gudbrand Schistad	| gudbrandsc | mc07-mc09 | 4400 - 4450 | mc07:4400 | mc09:4450 | n/a |
-| Omar Sharif| 	osharif12 | mc07-mc09 | 4451 - 4499 | mc07:4451 | mc09:4499 | n/a |
+| Gudbrand Schistad	| gudbrandsc | mc07-mc09 | 4400 - 4450 | mc07:4400 | mc09:4450 | mc08:4444 |
+| Omar Sharif| 	osharif12 | mc07-mc09 | 4451 - 4499 | mc07:4400 | mc09:4450 | mc08:4444 |
 | Jinyue Song	| John1001Song | mc07-mc09 | 4500 - 4550 | mc07:4500 | mc09:4550 | n/a |
 | Chien-Yu Sung	| BrianSungUSFCA | mc07-mc09 | 4551 - 4599 | mc08:4551 | mc09:4599 | n/a |
 | Prateek Tiwari	| prateekt29 | mc07-mc09 | 4600 - 4650 | mc01:2500 | mc02:2550 | mc03:2525 |
