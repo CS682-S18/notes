@@ -5,6 +5,11 @@ Exam 2 will cover all material introduced so far in the class. This includes any
 
 The list of topics may include but is not limited to the following:
 
+#### Time and Global State
+
+- Lamport timestamps
+- Vector timestamps
+
 #### Replication
 
 - Passive vs active
